@@ -1,5 +1,5 @@
 # Web-game-docker-container
-Build own image and push it to Docker Hub
+## Build own image and push it to Docker Hub
 
 Check for the available images
 ###### --> docker images
